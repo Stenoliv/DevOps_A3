@@ -29,7 +29,6 @@ public class Utils {
 			
 			}
 		catch(ArrayIndexOutOfBoundsException e) {
-			System.out.println(e);
 			return ("error");
 		}
 		
